@@ -1,4 +1,7 @@
 Honda Motorcycle Sales & Insurance Dashboard
+
+
+
 📊 Project Overview
 This project presents an interactive Power BI dashboard built using the Honda All Dataset. It provides a comprehensive view of sales, insurance, finance, and profitability across multiple motorcycle models, with a focus on the Shine 125.
 
