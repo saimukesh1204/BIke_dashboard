@@ -1,8 +1,8 @@
 Honda Motorcycle Sales & Insurance Dashboard
-Project Overview
+📊 Project Overview
 This project presents an interactive Power BI dashboard built using the Honda All Dataset. It provides a comprehensive view of sales, insurance, finance, and profitability across multiple motorcycle models, with a focus on the Shine 125.
 
-Key Features
+🔑 Key Features
 KPIs & Metrics
 
 Orders, Insurance Amounts, Finance, Gross Profit, Net Sales, and Cost Price.
@@ -23,19 +23,19 @@ Customer Insights
 
 Ratings and finance breakdowns for better decision-making.
 
-Tools & Technologies
+🛠️ Tools & Technologies
 Power BI: Data modeling, DAX calculations, and interactive dashboards.
 
 Dataset: Honda All Dataset (CSV).
 
 GitHub: Repository hosting and documentation.
 
-Demo
+🎥 Demo
 Video Walkthrough: [Attach Video Link Here]
 
 GitHub Repository: https://github.com/saimukesh1204/BIke_dashboard
 
-How to Use
+📌 How to Use
 Clone the repository:
 
 bash
@@ -43,12 +43,3 @@ git clone https://github.com/saimukesh1204/BIke_dashboard.git
 Open the .pbix file in Power BI Desktop.
 
 Explore dashboards using filters, dropdowns, and visuals.
-
-Impact
-This dashboard enables stakeholders to:
-
-Track profitability and sales performance.
-
-Understand customer preferences and regional demand.
-
-Make data-driven decisions with clarity and precision.
